@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Database/College%20Projects/VI/Video_Integrity/src/video_integrity/View_Download_Hist.java</file>
+            <file>file:/D:/Database/College%20Projects/VI/Video_Integrity/src/video_integrity/Delete_Files_Upload.java</file>
+            <file>file:/D:/Database/College%20Projects/VI/Video_Integrity/src/integrity/Delete_Files.java</file>
+            <file>file:/D:/Database/College%20Projects/VI/Video_Integrity/src/integrity/Int_Frame_Result_Directory.java</file>
+            <file>file:/D:/Database/College%20Projects/VI/Video_Integrity/src/video_integrity/Login_User.java</file>
+            <file>file:/D:/Database/College%20Projects/VI/Video_Integrity/src/video_integrity/Insert_Dwldvideoinfo.java</file>
+            <file>file:/D:/Database/College%20Projects/VI/Video_Integrity/src/blockchain/FrameProcess.java</file>
+            <file>file:/D:/Database/College%20Projects/VI/Video_Integrity/src/dropbox/FileListHelper.java</file>
+            <file>file:/D:/Database/College%20Projects/VI/Video_Integrity/src/integrity/Data_Fetcher_User_Video.java</file>
+            <file>file:/D:/Database/College%20Projects/VI/Video_Integrity/src/frames/FrameProcess.java</file>
+            <file>file:/D:/Database/College%20Projects/VI/Video_Integrity/src/integrity/FrameProcessInt.java</file>
+            <file>file:/D:/Database/College%20Projects/VI/Video_Integrity/src/integrity/Int_Frame_Directory.java</file>
+            <file>file:/D:/Database/College%20Projects/VI/Video_Integrity/src/dropbox/OverwriteHelper.java</file>
+            <file>file:/D:/Database/College%20Projects/VI/Video_Integrity/src/blockchain/Rotate.java</file>
+            <file>file:/D:/Database/College%20Projects/VI/Video_Integrity/src/video_integrity/Insert_User_DB.java</file>
+            <file>file:/D:/Database/College%20Projects/VI/Video_Integrity/src/integrity/FrameSupporterInt.java</file>
+            <file>file:/D:/Database/College%20Projects/VI/Video_Integrity/src/dropbox/UploadHelper.java</file>
+            <file>file:/D:/Database/College%20Projects/VI/Video_Integrity/src/integrity/ResizerInt.java</file>
+            <file>file:/D:/Database/College%20Projects/VI/Video_Integrity/src/video_integrity/Upload_Frame.jpg</file>
+            <file>file:/D:/Database/College%20Projects/VI/Video_Integrity/src/blockchain/BlockHeadCreator.java</file>
+            <file>file:/D:/Database/College%20Projects/VI/Video_Integrity/src/blockchain/Encrypter.java</file>
+            <file>file:/D:/Database/College%20Projects/VI/Video_Integrity/src/frames/Resizer.java</file>
+            <file>file:/D:/Database/College%20Projects/VI/Video_Integrity/src/video_integrity/CurrentTime.java</file>
+            <file>file:/D:/Database/College%20Projects/VI/Video_Integrity/src/blockchain/md5.java</file>
+            <file>file:/D:/Database/College%20Projects/VI/Video_Integrity/src/video_integrity/Data_Fetcher_User.java</file>
+            <file>file:/D:/Database/College%20Projects/VI/Video_Integrity/src/video_integrity/Login_Frame.java</file>
+            <file>file:/D:/Database/College%20Projects/VI/Video_Integrity/src/integrity/DownloadFile_Integrity_Check.java</file>
+            <file>file:/D:/Database/College%20Projects/VI/Video_Integrity/src/frames/FrameSupporter.java</file>
+            <file>file:/D:/Database/College%20Projects/VI/Video_Integrity/src/integrity/Integrity_Init.java</file>
+            <file>file:/D:/Database/College%20Projects/VI/Video_Integrity/src/integrity/DownLoadHelper_Integrity_Check.java</file>
+            <file>file:/D:/Database/College%20Projects/VI/Video_Integrity/src/blockchain/BlockHeadSupporter.java</file>
+            <file>file:/D:/Database/College%20Projects/VI/Video_Integrity/src/video_integrity/Insert_videoinfo.java</file>
+            <file>file:/D:/Database/College%20Projects/VI/Video_Integrity/src/blockchain/ResultDirectory.java</file>
+            <file>file:/D:/Database/College%20Projects/VI/Video_Integrity/src/video_integrity/CurrentDate.java</file>
+            <file>file:/D:/Database/College%20Projects/VI/Video_Integrity/src/video_integrity/Check_Integrity.java</file>
+            <file>file:/D:/Database/College%20Projects/VI/Video_Integrity/src/video_integrity/User_Update.java</file>
+            <file>file:/D:/Database/College%20Projects/VI/Video_Integrity/src/video_integrity/User_Reg.java</file>
+            <file>file:/D:/Database/College%20Projects/VI/Video_Integrity/src/integrity/Download_Store_Video.java</file>
+            <file>file:/D:/Database/College%20Projects/VI/Video_Integrity/src/blockchain/Resizer.java</file>
+            <file>file:/D:/Database/College%20Projects/VI/Video_Integrity/src/dropbox/UploadFile.java</file>
+            <file>file:/D:/Database/College%20Projects/VI/Video_Integrity/src/integrity/DownloadFile_FrameExtract_IntCheck.java</file>
+            <file>file:/D:/Database/College%20Projects/VI/Video_Integrity/src/dropbox/DownloadFile.java</file>
+            <file>file:/D:/Database/College%20Projects/VI/Video_Integrity/src/blockchain/FrameSupporter.java</file>
+            <file>file:/D:/Database/College%20Projects/VI/Video_Integrity/src/blockchain/EncryptRotater.java</file>
+            <file>file:/D:/Database/College%20Projects/VI/Video_Integrity/src/dropbox/FileOverwrite.java</file>
+            <file>file:/D:/Database/College%20Projects/VI/Video_Integrity/src/frames/ResultDirectory.java</file>
+            <file>file:/D:/Database/College%20Projects/VI/Video_Integrity/src/dropbox/DownLoadHelper.java</file>
+        </group>
+    </open-files>
+</project-private>

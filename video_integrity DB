@@ -1,0 +1,100 @@
+-- MySQL Administrator dump 1.4
+--
+-- ------------------------------------------------------
+-- Server version	5.0.22-community-nt
+
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
+/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
+/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
+/*!40101 SET NAMES utf8 */;
+
+/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;
+/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;
+/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
+
+
+--
+-- Create schema video_integrity
+--
+
+CREATE DATABASE /*!32312 IF NOT EXISTS*/ video_integrity;
+USE video_integrity;
+
+--
+-- Table structure for table `video_integrity`.`download_info`
+--
+
+DROP TABLE IF EXISTS `download_info`;
+CREATE TABLE `download_info` (
+  `video_name` varchar(45) NOT NULL default '',
+  `time` varchar(45) NOT NULL default '',
+  `userid` varchar(45) NOT NULL default ''
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+--
+-- Dumping data for table `video_integrity`.`download_info`
+--
+
+/*!40000 ALTER TABLE `download_info` DISABLE KEYS */;
+INSERT INTO `download_info` (`video_name`,`time`,`userid`) VALUES 
+ ('pigeon_107.mp4','31-05-2021 - 3:7:37 PM','romi123');
+/*!40000 ALTER TABLE `download_info` ENABLE KEYS */;
+
+
+--
+-- Table structure for table `video_integrity`.`upload_video`
+--
+
+DROP TABLE IF EXISTS `upload_video`;
+CREATE TABLE `upload_video` (
+  `video_name` varchar(500) NOT NULL default '',
+  `time` varchar(45) NOT NULL default '',
+  `userid` varchar(45) NOT NULL default '',
+  `terminalkey` varchar(45) NOT NULL default ''
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+--
+-- Dumping data for table `video_integrity`.`upload_video`
+--
+
+/*!40000 ALTER TABLE `upload_video` DISABLE KEYS */;
+INSERT INTO `upload_video` (`video_name`,`time`,`userid`,`terminalkey`) VALUES 
+ ('falling_aerobatic sample.mp4','29-05-2021 - 4:43:43 PM','romi123','|n~m||ny'),
+ ('pigeon_107.mp4','29-05-2021 - 4:44:12 PM','romi123','{omm}y}}');
+/*!40000 ALTER TABLE `upload_video` ENABLE KEYS */;
+
+
+--
+-- Table structure for table `video_integrity`.`user_info`
+--
+
+DROP TABLE IF EXISTS `user_info`;
+CREATE TABLE `user_info` (
+  `name` varchar(45) NOT NULL default '',
+  `email` varchar(45) NOT NULL default '',
+  `mob` varchar(45) NOT NULL default '',
+  `uid` varchar(45) NOT NULL default '',
+  `pw` varchar(45) NOT NULL default '',
+  PRIMARY KEY  (`uid`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+--
+-- Dumping data for table `video_integrity`.`user_info`
+--
+
+/*!40000 ALTER TABLE `user_info` DISABLE KEYS */;
+INSERT INTO `user_info` (`name`,`email`,`mob`,`uid`,`pw`) VALUES 
+ ('Nikhil B','nikhil.bhusari@gmail.com','9874534885','nikhil@123','123'),
+ ('Raheen','raheen@gmail.com','9876543210','raheen','123'),
+ ('Romeo','romeo@gmail.com','9898989898','romi123','123'),
+ ('Yash S Gilda','pratik.gilda@1gmail.com','9766867690','yashg','123');
+/*!40000 ALTER TABLE `user_info` ENABLE KEYS */;
+
+/*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
+/*!40014 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS */;
+/*!40014 SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS */;
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
+/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
+/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
